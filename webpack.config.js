@@ -94,3 +94,12 @@ module.exports = () => {
   }
   return config;
 };
+
+const labs = {
+  css: {
+    loader: 'css-loader',
+    options: {
+      undefined
+    }
+  }
+}
